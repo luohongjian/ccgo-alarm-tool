@@ -1,0 +1,14 @@
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\bin\Debug\ccgo-alarm-tool.exe.config
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\bin\Debug\ccgo-alarm-tool.exe
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\bin\Debug\ccgo-alarm-tool.pdb
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\bin\Debug\Newtonsoft.Json.dll
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\bin\Debug\System.Runtime.WindowsRuntime.dll
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\bin\Debug\Newtonsoft.Json.xml
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\bin\Debug\System.Runtime.WindowsRuntime.xml
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\obj\Debug\ccgo_bluetooth_tool.Ccgo_tool_form.resources
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\obj\Debug\ccgo_alarm_tool.Properties.Resources.resources
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\obj\Debug\ccgo-alarm-tool.csproj.GenerateResource.cache
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\obj\Debug\ccgo-alarm-tool.csproj.CoreCompileInputs.cache
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\obj\Debug\ccgo-alarm-tool.csproj.CopyComplete
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\obj\Debug\ccgo-alarm-tool.exe
+D:\yc-project\ccgo-alarm-tool\ccgo-alarm-tool\ccgo-alarm-tool\obj\Debug\ccgo-alarm-tool.pdb
